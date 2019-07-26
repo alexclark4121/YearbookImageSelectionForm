@@ -9,7 +9,7 @@ namespace WinFormUI
     static class Program
     {
         /// <summary>
-        /// The main entry point for the application.
+        /// The main entry point for the application. Yeet.
         /// </summary>
         [STAThread]
         static void Main()
